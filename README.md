@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
   <h1>Muy buenas, me llamo Fabio</h1>
 </div>
 <!---
